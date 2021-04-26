@@ -2,6 +2,8 @@
 
 The audio for this demo video is available when you click on the image below, or you can follow the transcript and visuals that are just below the video.
 
+Here are some thoughts on the importance of edge devices in computer vision: 
+
 ![demo](https://user-images.githubusercontent.com/38410965/111724301-64c4d000-883b-11eb-9546-555a324eaa9e.mp4)
 
 #
