@@ -54,7 +54,7 @@ The audio for this demo video is available when you click on the image below, or
 
 # 
 
-> So, I will now go into the other one *(the live demo of the Nano after it is re-powered)*, and change the setting so that I’m right side up. That’s `web stream dot py`.  So, in this, we’re able to change all sorts of aspects of how the video is retrieved and broadcast, which really is useful because essentially what we’re trying to do is get good data, and unless we’re able to manipulate it, we won’t be able to get good data.  
+> So, I will now go into the other one *(the live demo of the Nano after it is re-powered)*, and change the setting so that I’m right side up. That’s `web stream dot py`.  So, in this, we’re able to change all sorts of aspects of how the video is retrieved and broadcast, (`flip-method=0` --> `flip-method=2`), which really is useful because essentially what we’re trying to do is get good data, and unless we’re able to manipulate it, we won’t be able to get good data.  
 
 `flip-method=0`
 
