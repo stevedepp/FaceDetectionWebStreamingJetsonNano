@@ -30,13 +30,17 @@ Here are some of my [thoughts](https://github.com/stevedepp/FaceDetectionWebStre
 
 > So, in this video, I actually had to load up, err, or attach a monitor to Nano, which wasn’t really my preferred way of doing it, but I couldn’t figure out a way to get the video over to my MacBook from the Nano as it did face detection.  And I’ll show you this program here in just a minute. The code is relatively short and is written by a fellow who has a YouTube account called Jetson Hacks.  He’s quite good and very helpful.  Anyway. So, in this video, I am just using this face detection routine.  
 
+`python3 face-detect.py`
+
 <img width="1140" alt="image" src="https://user-images.githubusercontent.com/38410965/116126992-4ac9a900-a695-11eb-8787-938afd1b8bb8.png">
 
 <img width="1140" alt="image" src="https://user-images.githubusercontent.com/38410965/116130779-9ed68c80-a699-11eb-9d40-481597581f5a.png">
 
 #
 
-> *(At this point in the demo video, I’m doing two things: re-powering the Nano on the left side terminal and commenting on video of the Jetson Hacks  the right side.)*  Let’s see if we are back in.)*  You can see it just operating.  
+*(At this point in the demo video, I’m doing two things: re-powering the Nano on the left side terminal and commenting on video of the Jetson Hacks `python3 face-detect.py` on the right side.)*  
+
+> Let’s see if we are back in.)*  You can see it just operating.  
 
 <img width="1140" alt="image" src="https://user-images.githubusercontent.com/38410965/116127441-d7746700-a695-11eb-8f9f-0d3e8f25659e.png">
 
