@@ -2,7 +2,7 @@
 
 The audio for this demo video is available when you click on the image below, or you can follow the transcript and visuals that are just below the video.
 
-Here are some significant [thoughts](https://github.com/stevedepp/FaceDetectionWebStreamingJetsonNano/blob/main/edge_device_importance.md) on the importance of edge devices in computer vision, with parallels to web scraping and NLP.
+Here are some of my [thoughts](https://github.com/stevedepp/FaceDetectionWebStreamingJetsonNano/blob/main/edge_device_importance.md) on the importance of edge devices in computer vision, with parallels to web scraping and NLP.
 
 ![demo](https://user-images.githubusercontent.com/38410965/111724301-64c4d000-883b-11eb-9546-555a324eaa9e.mp4)
 
